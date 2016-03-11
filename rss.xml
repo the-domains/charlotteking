@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[charlotteking.ca]]></title>
         <description><![CDATA[charlotteking.ca]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/charlotteking/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 11 Mar 2016 03:31:10 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 11 Mar 2016 03:33:37 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/charlotteking/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://scontent-ord1-1.xx.fbcdn.net/hphotos-xpa1/v/t1.0-9/1620849_648325268547196_1208193296_n.jpg?oh=90a1e6d54b2100ea79ea6ab5a0d4228e&oe=5796DFB7">]]></description>
+            <link>https://www.facebook.com/583608101685580/photos/pb.583608101685580.-2207520000.1457568195./648325268547196/?type=3&amp;theater</link>
+            <guid isPermaLink="false">702cad4e-ff8d-4c59-9c0e-3a19743b6ad4</guid>
+            <pubDate>Fri, 11 Mar 2016 03:33:37 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://scontent-ord1-1.xx.fbcdn.net/hphotos-prn2/v/t1.0-9/1391457_583613045018419_601828566_n.jpg?oh=e90ef7c836fde81fd55050415aa20e46&oe=575A9532">]]></description>
